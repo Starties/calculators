@@ -35,7 +35,7 @@ const MODELS = [
     color: 'text-emerald-400 bg-emerald-400/10',
     border: 'hover:border-emerald-500/50',
     path: '/programmer',
-    active: false,
+    active: true,
     tags: ['cs', 'binary', 'hex']
   },
   {
